@@ -1,7 +1,7 @@
 {
     "vehicleType": [
       {
-        "type": "Carros y camionetas",
+        "type": "Automovil",
         "brand": [
           {
             "name": "Alfa Romeo",
